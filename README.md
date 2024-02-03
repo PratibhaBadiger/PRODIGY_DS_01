@@ -5,6 +5,9 @@ The data set used: World_Population
 Libraries Used:
 
 Pandas - for analyzing, cleaning, exploring and manipulating the data set.
+
 Numpy - for working with array.
+
 Matplotlib - for creating visualization like plots.
+
 Seaborn - for making statistical graphs like histograms and Bargraphs.
